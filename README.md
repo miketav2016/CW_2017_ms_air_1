@@ -10,4 +10,11 @@ So we have solve for next tasks.
    
  3.DOF.m the implementation of degrees of freedom for 3 or more link manipulators with the initial
   data for modeling. the result is the coefficients of the dynamics equation. for the convenience of further work with them.
+  
+ 4. salampopolam.ev3 Slam Implementation for robot arm.
+ 
+ 
+ How it work.
+  for 1/2/3 points we will use matlab( better used Matlab2015a - exactly works)
+  for 4 point we will use LEGO MINDSTORMS EV3 Home Edition.
  
